@@ -8,13 +8,13 @@
 - [4. Audio](#Audio)
 
 ## <a name="Image"></a>1.Image
-### 1.1 bbox
->>- [labelImg](https://github.com/tzutalin/labelImg)
-### 1.2 Mask
+>> ### 1.1 bbox
+>> - [labelImg](https://github.com/tzutalin/labelImg)
+>> ### 1.2 Mask
 
-## <a name="Video">2.Video
+## <a name="Video"></a>2.Video
 
-## <a name="Text">3.Text
+## <a name="Text"></a>3.Text
 
-## <a name="Audio">4.Audio
+## <a name="Audio"></a>4.Audio
 
