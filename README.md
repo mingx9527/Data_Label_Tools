@@ -13,10 +13,12 @@
 >> - [bbox-label-tool](https://github.com/puzzledqs/BBox-Label-Tool)
 >> - [LabelBoundingBox](https://github.com/hjptriplebee/LabelBoundingBox)
 >> - [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
+>> - [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
 >> ### 1.2 Mask
 >> - [labelme](https://github.com/wkentaro/labelme)
 >> - [Labelbox](https://github.com/Labelbox/Labelbox)
 >> - [ImageLabel](https://github.com/lanbing510/ImageLabel)
+>> - [ImageSegmentation](https://github.com/AKSHAYUBHAT/ImageSegmentation)
 ## <a name="Video"></a>2. Video
 >> ### 2.1 bbox
 >> - [video_labeler](https://github.com/hahnyuan/video_labeler)
