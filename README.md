@@ -7,14 +7,14 @@
 - [3. Text](#Text)
 - [4. Audio](#Audio)
 
-## <a name="Image"></a>1.Image
+## <a name="Image"></a>1. Image
 >> ### 1.1 bbox
 >> - [labelImg](https://github.com/tzutalin/labelImg)
 >> ### 1.2 Mask
 
-## <a name="Video"></a>2.Video
+## <a name="Video"></a>2. Video
 
-## <a name="Text"></a>3.Text
+## <a name="Text"></a>3. Text
 
-## <a name="Audio"></a>4.Audio
+## <a name="Audio"></a>4. Audio
 
