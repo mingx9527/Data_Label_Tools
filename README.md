@@ -34,25 +34,25 @@
 >>      * labelImgPlus是labelImg的升级版，支持**图像分割、图像分类、目标检测**标注，操作方便，通用性极强，应用广泛。
 
 ## <a name="Video"></a>2. Video
->> - [video_labeler](https://github.com/hahnyuan/video_labeler)
+>> - **[video_labeler](https://github.com/hahnyuan/video_labeler)**
 >>      * video_labeler是一款基于python的视频**目标检测、目标跟踪**标注工具，轻便实用。
->> - [vatic](https://github.com/cvondrick/vatic)
+>> - **[vatic](https://github.com/cvondrick/vatic)**
 >>      * vatic是一款基于python的视频**目标检测、目标跟踪**标注工具，轻便实用，应用广泛。
->> - [lane-detection-with-opencv](https://github.com/ckirksey3/lane-detection-with-opencv)
+>> - **[lane-detection-with-opencv](https://github.com/ckirksey3/lane-detection-with-opencv)**
 >>      * lane-detection-with-opencv是一款基于Opencv的视频**车道检测**标注工具，特殊场景标注工具，实用性强。
->> - [OpenLabel](https://github.com/liushu1231/OpenLabel)
+>> - **[OpenLabel](https://github.com/liushu1231/OpenLabel)**
 >>      * Openlabel是一款基于Opencv的视频**目标检测、目标跟踪**标注工具，轻便实用，应用广泛。
 
 ## <a name="Text"></a>3. Text
->> - [brat](https://github.com/nlplab/brat)
+>> - **[brat](https://github.com/nlplab/brat)**
 >>      * brat是基于python的**自然语言**标注工具，设计灵活，实用，应用广泛。
->> - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+>> - **[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)**
 >>      * MarqueeLabel是基于Swift和C的**自然语言**标注工具，设计灵活，实用，应用广泛。
 
 ## <a name="Audio"></a>4. Audio
->> - [audio-annotator](https://github.com/CrowdCurio/audio-annotator)
+>> - **[audio-annotator](https://github.com/CrowdCurio/audio-annotator)**
 >>      * audio-annotator是基于Javascript的**音频**标注工具，它可以实现无形、声谱图、声波进行可视化标注，通用性强，应用广泛。
->> - [youtube-chord-ocr](https://github.com/henridwyer/youtube-chord-ocr)
+>> - **[youtube-chord-ocr](https://github.com/henridwyer/youtube-chord-ocr)**
 >>      * youtube-chord-ocr是基于python的**音频**标注工具，可以实现将youtube上带有和弦标签的音乐视频转化为带标签的音频文件，应用广泛。
->> - [MusicSegmentation](https://github.com/torogmw/MusicSegmentation)
+>> - **[MusicSegmentation](https://github.com/torogmw/MusicSegmentation)**
 >>      * MusicSegmentation是一种基于matlab的**音乐分割**标记工具，它通过计算谐波和音色分割音乐并标记，应用广泛。
