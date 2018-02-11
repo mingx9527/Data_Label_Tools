@@ -25,13 +25,13 @@
 >> - **[Labelbox](https://github.com/Labelbox/Labelbox)**
 >>      * labelbox是一款多功能数据标注工具，支持**图像分割、图像分类、文本分类**标注，操作方便、快捷、实用，应用广泛。
 >> - **[ImageLabel](https://github.com/lanbing510/ImageLabel)**
->>      *
+>>      * ImageLabel是基于Qt和Opencv的**图像分割**标注工具，支持手动绘制轮廓，可利用GrabCut进行半自动标注，方便使用。
 >> - **[ImageSegmentation](https://github.com/AKSHAYUBHAT/ImageSegmentation)**
->>      *
+>>      * ImageSegmentation是基于python的**图像分割**标注工具，操作方便实用。
 >> - **[opensurfaces-segmentation-ui](https://github.com/seanbell/opensurfaces-segmentation-ui)**
->>      *
+>>      * opensurfaces-segmentation-ui是基于python的**图像分割**标注工具，操作方便实用。
 >> - **[labelImgPlus](https://github.com/lzx1413/labelImgPlus)**
->>      *
+>>      * labelImgPlus是labelImg的升级版，支持**图像分割、图像分类、目标检测**标注，操作方便，通用性极强，应用广泛。
 
 ## <a name="Video"></a>2. Video
 >> ### 2.1 bbox
