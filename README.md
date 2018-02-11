@@ -34,7 +34,6 @@
 >>      * labelImgPlus是labelImg的升级版，支持**图像分割、图像分类、目标检测**标注，操作方便，通用性极强，应用广泛。
 
 ## <a name="Video"></a>2. Video
->> ### 2.1 bbox
 >> - [video_labeler](https://github.com/hahnyuan/video_labeler)
 >>      * video_labeler是一款基于python的视频**目标检测、目标跟踪**标注工具，轻便实用。
 >> - [vatic](https://github.com/cvondrick/vatic)
