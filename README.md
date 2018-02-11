@@ -36,13 +36,13 @@
 ## <a name="Video"></a>2. Video
 >> ### 2.1 bbox
 >> - [video_labeler](https://github.com/hahnyuan/video_labeler)
->>    *
+>>      * video_labeler是一款基于python的视频**目标检测、目标跟踪**标注工具，轻便实用。
 >> - [vatic](https://github.com/cvondrick/vatic)
->>    *
+>>      * vatic是一款基于python的视频**目标检测、目标跟踪**标注工具，轻便实用，应用广泛。
 >> - [lane-detection-with-opencv](lane-detection-with-opencv)
->>    *
+>>      * 
 >> - [OpenLabel](https://github.com/liushu1231/OpenLabel)
->>    *
+>>      * Openlabel是一款基于Opencv的视频**目标检测、目标跟踪**标注工具，轻便实用，应用广泛。
 
 ## <a name="Text"></a>3. Text
 >> - [brat](http://blog.csdn.net/dlyldxwl/article/details/76272707)
