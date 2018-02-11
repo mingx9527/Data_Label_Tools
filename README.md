@@ -21,9 +21,9 @@
 >>    * FastAnnotationTool是一款基于C++和opencv的强大的**目标检测**数据标注工具，支持数据和字母OCR标注，提供多种数据增强功能（尺寸剪切、翻转、旋转、缩放、椒盐噪声、高斯噪声、矩形合并、线提取等），支持带倾斜角度目标标注，实用性极强。
 >> ### 1.2 Mask
 >> - **[labelme](https://github.com/wkentaro/labelme)**
->>      * labelme是基于python和Qt的跨平台标注工具，支持**图像分割、图像分类、文本分类**标注，操作方便、快捷、实用，应用广泛。
+>>      * labelme是基于python和Qt的跨平台标注工具，支持**图像分割**标注，操作方便、快捷、实用，应用广泛。
 >> - **[Labelbox](https://github.com/Labelbox/Labelbox)**
->>    * 
+>>      * labelbox是一款多功能数据标注工具，支持**图像分割、图像分类、文本分类**标注，操作方便、快捷、实用，应用广泛。
 >> - **[ImageLabel](https://github.com/lanbing510/ImageLabel)**
 >>    *
 >> - **[ImageSegmentation](https://github.com/AKSHAYUBHAT/ImageSegmentation)**
