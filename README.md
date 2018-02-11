@@ -44,8 +44,8 @@
 >>      * Openlabel是一款基于Opencv的视频**目标检测、目标跟踪**标注工具，轻便实用，应用广泛。
 
 ## <a name="Text"></a>3. Text
->> - [brat](http://blog.csdn.net/dlyldxwl/article/details/76272707)
->>    *
+>> - [brat](https://github.com/nlplab/brat)
+>>      * brat是基于python的自然语言标注工具，设计灵活，实用，应用广泛。
 >> - [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
 >>    *
 >> - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
