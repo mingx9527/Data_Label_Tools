@@ -45,11 +45,9 @@
 
 ## <a name="Text"></a>3. Text
 >> - [brat](https://github.com/nlplab/brat)
->>      * brat是基于python的自然语言标注工具，设计灵活，实用，应用广泛。
->> - [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
->>    *
+>>      * brat是基于python的**自然语言**标注工具，设计灵活，实用，应用广泛。
 >> - [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
->>    *
+>>      * MarqueeLabel是基于Swift和C的**自然语言**标注工具，设计灵活，实用，应用广泛。
 
 ## <a name="Audio"></a>4. Audio
 >> - [audio-annotator](https://github.com/CrowdCurio/audio-annotator)
