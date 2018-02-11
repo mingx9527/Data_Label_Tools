@@ -51,8 +51,8 @@
 
 ## <a name="Audio"></a>4. Audio
 >> - [audio-annotator](https://github.com/CrowdCurio/audio-annotator)
->>    *
+>>      * audio-annotator是基于Javascript的**音频**标注工具，它可以实现无形、声谱图、声波进行可视化标注，通用性强，应用广泛。
 >> - [youtube-chord-ocr](https://github.com/henridwyer/youtube-chord-ocr)
->>    *
+>>      * youtube-chord-ocr是基于python的**音频**标注工具，可以实现将youtube上带有和弦标签的音乐视频转化为带标签的音频文件，应用广泛。
 >> - [MusicSegmentation](https://github.com/torogmw/MusicSegmentation)
->>    *
+>>      * MusicSegmentation是一种基于matlab的**音乐分割**标记工具，它通过计算谐波和音色分割音乐并标记，应用广泛。
