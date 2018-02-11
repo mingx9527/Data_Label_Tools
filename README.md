@@ -18,8 +18,8 @@
 >> - [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)
 >>   * Yolo_mark是针对Yolo v2目标检测的标注工具
 >> - [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
->>   * FastAnnotationTool是一款基于C++和opencv的强大的目标检测数据标注工具，支持数据和字母OCR标注，提供多种数据增强功能（
->>   * 尺寸剪切、翻转、旋转、缩放、椒盐噪声、高斯噪声、矩形合并、线提取等），支持带倾斜角度目标标注，实用性极强
+>>   * FastAnnotationTool是一款基于C++和opencv的强大的目标检测数据标注工具，支持数据和字母OCR标注，
+>>   * 提供多种数据增强功能（尺寸剪切、翻转、旋转、缩放、椒盐噪声、高斯噪声、矩形合并、线提取等），支持带倾斜角度目标标注，实用性极强
 >> ### 1.2 Mask
 >> - [labelme](https://github.com/wkentaro/labelme)
 >> - [Labelbox](https://github.com/Labelbox/Labelbox)
