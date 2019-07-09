@@ -27,6 +27,13 @@
 >>      * CVAT高效的标注工具，图像分类，目标检测，语义分割，实例分割，支持本地部署
 >> - **[VoTT](https://github.com/microsoft/VoTT)**
 >>      * VoTT 微软发布的Eeb方式部署标注工具，至此图像和视频；支持CNTK，Pascal Voc格式；支持导出TFRecord，CSV，VoTT格式
+>> - **[VIA-VGG Image Annotator]**
+>>      * 图像检测 语义分割 实例分割等;Web方式，也可本地部署；在人脸数据标注上提供了方便操作，人脸数据标注首选 
+>> - **[Pixel Annotation Tool](https://github.com/abreheret/PixelAnnotationTool)**
+>>      * 语义分割 实例分割标注神器
+>> - **[point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool)**
+>>      * 3D点云数据标注神器；支持点云数据加载，保存与可视化；支持点云数据选择；支持3D Box框生成；支持KITTI-bin格式数据
+
 
 >> ### 1.2 Mask
 >> - **[labelme](https://github.com/wkentaro/labelme)**
