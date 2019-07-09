@@ -21,6 +21,8 @@
 >>      * FastAnnotationTool是一款基于C++和opencv的强大的**目标检测**数据标注工具，支持数据和字母OCR标注，提供多种数据增强功能（尺寸剪切、翻转、旋转、缩放、椒盐噪声、高斯噪声、矩形合并、线提取等），支持带倾斜角度目标标注，实用性极强。
 >> - **[od-annotation](https://github.com/hzylmf/od-annotation)**
 >>      * od-annotation采用python-flask框架开发，基于B/S方式交互，支持多人同时标注。
+>> - **[RectLabel](https://rectlabel.com/)**
+>>      * RectLabel即可画框（目标检测）又可画多边形（分割）
 
 >> ### 1.2 Mask
 >> - **[labelme](https://github.com/wkentaro/labelme)**
