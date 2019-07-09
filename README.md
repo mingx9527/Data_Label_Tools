@@ -23,6 +23,9 @@
 >>      * od-annotation采用python-flask框架开发，基于B/S方式交互，支持多人同时标注。
 >> - **[RectLabel](https://rectlabel.com/)**
 >>      * RectLabel即可画框（目标检测）又可画多边形（分割）
+>> - **[CVAT](https://github.com/opencv/cvat)**
+>>      * CVAT高效的标注工具，图像分类，目标检测，语义分割，实例分割，支持本地部署
+
 
 >> ### 1.2 Mask
 >> - **[labelme](https://github.com/wkentaro/labelme)**
