@@ -33,7 +33,8 @@
 >>      * 语义分割 实例分割标注神器
 >> - **[point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool)**
 >>      * 3D点云数据标注神器；支持点云数据加载，保存与可视化；支持点云数据选择；支持3D Box框生成；支持KITTI-bin格式数据
-
+>> - **[boobs](https://github.com/drainingsun/boobs)**
+>>      * Yolo bbox标注工具；支持输出YOLO/VOC/COCO格式
 
 >> ### 1.2 Mask
 >> - **[labelme](https://github.com/wkentaro/labelme)**
