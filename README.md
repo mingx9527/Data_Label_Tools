@@ -25,7 +25,8 @@
 >>      * RectLabel即可画框（目标检测）又可画多边形（分割）
 >> - **[CVAT](https://github.com/opencv/cvat)**
 >>      * CVAT高效的标注工具，图像分类，目标检测，语义分割，实例分割，支持本地部署
-
+>> - **[VoTT](https://github.com/microsoft/VoTT)**
+>>      * VoTT 微软发布的Eeb方式部署标注工具，至此图像和视频；支持CNTK，Pascal Voc格式；支持导出TFRecord，CSV，VoTT格式
 
 >> ### 1.2 Mask
 >> - **[labelme](https://github.com/wkentaro/labelme)**
