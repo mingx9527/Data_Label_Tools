@@ -71,7 +71,7 @@
         * Stanford CoreNLP provides a set of human language technology tools. 
 >> - **[doccano](https://github.com/chakki-works/doccano)**
         * doccano提供了文本分类，序列标记和序列到序列的注释功能。因此，您可以为情绪分析，命名实体识别，文本摘要等创建标记数据。
->> - ** [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)      
+>> - ** [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)**      
         * Annotator for Chinese Text Corpus，
         
 ## <a name="Audio"></a>4. Audio
