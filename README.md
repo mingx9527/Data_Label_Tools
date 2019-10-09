@@ -2,10 +2,18 @@
 本文旨在收集整理开源的数据标注工具，方便使用，目前包括Image、Video、Text和Audio 4个方面。文中大部分工具，本人还未亲自测试过，标签或是归档不妥之处也会长期改进！
 
 ## Table of Contents
+- [0. 通用工具](#通用工具)
 - [1. Image](#Image)
 - [2. Video](#Video)
 - [3. Text](#Text)
 - [4. Audio](#Audio)
+
+## <a name="General Tools"></a>0. 通用工具
+
+>> ### 0.1 Label Studio
+>> - **[Label Studio](https://github.com/heartexlabs/label-studio)**
+>>      * Label Studio is a multi-type data labeling and annotation tool with standardized output format https://labelstud.io/
+>>      * Its purpose is to enable you to label different types of data using the most convenient interface with a standardized output format.
 
 ## <a name="Image"></a>1. Image
 >> ### 1.1 bbox
