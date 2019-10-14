@@ -2,10 +2,18 @@
 本文旨在收集整理开源的数据标注工具，方便使用，目前包括Image、Video、Text和Audio 4个方面。文中大部分工具，本人还未亲自测试过，标签或是归档不妥之处也会长期改进！
 
 ## Table of Contents
+- [0. 通用工具](#通用工具)
 - [1. Image](#Image)
 - [2. Video](#Video)
 - [3. Text](#Text)
 - [4. Audio](#Audio)
+
+## <a name="General Tools"></a>0. 通用工具
+
+>> ### 0.1 Label Studio
+>> - **[Label Studio](https://github.com/heartexlabs/label-studio)**
+>>      * Label Studio is a multi-type data labeling and annotation tool with standardized output format https://labelstud.io/
+>>      * Its purpose is to enable you to label different types of data using the most convenient interface with a standardized output format.
 
 ## <a name="Image"></a>1. Image
 >> ### 1.1 bbox
@@ -24,7 +32,7 @@
 >> - **[RectLabel](https://rectlabel.com/)**
 >>      * RectLabel即可画框（目标检测）又可画多边形（分割）
 >> - **[CVAT](https://github.com/opencv/cvat)**
->>      * CVAT高效的标注工具，图像分类，目标检测，语义分割，实例分割，支持本地部署
+>>      * CVAT是OpenCV团队开源的高效的标注工具，图像分类，目标检测，语义分割，实例分割，支持本地部署
 >> - **[VoTT](https://github.com/microsoft/VoTT)**
 >>      * VoTT 微软发布的Eeb方式部署标注工具，至此图像和视频；支持CNTK，Pascal Voc格式；支持导出TFRecord，CSV，VoTT格式
 >> - **[VIA-VGG Image Annotator](http://www.robots.ox.ac.uk/~vgg/software/via/)**
@@ -67,7 +75,13 @@
 >>      * brat是基于python的**自然语言**标注工具，设计灵活，实用，应用广泛。
 >> - **[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)**
 >>      * MarqueeLabel是基于Swift和C的**自然语言**标注工具，设计灵活，实用，应用广泛。
-
+>> - **[CoreNLP](https://stanfordnlp.github.io/CoreNLP/)**
+        * Stanford CoreNLP provides a set of human language technology tools. 
+>> - **[doccano](https://github.com/chakki-works/doccano)**
+        * doccano提供了文本分类，序列标记和序列到序列的注释功能。因此，您可以为情绪分析，命名实体识别，文本摘要等创建标记数据。
+>> - ** [Chinese-Annotator](https://github.com/deepwel/Chinese-Annotator)**      
+        * Annotator for Chinese Text Corpus，
+        
 ## <a name="Audio"></a>4. Audio
 >> - **[audio-annotator](https://github.com/CrowdCurio/audio-annotator)**
 >>      * audio-annotator是基于Javascript的**音频**标注工具，它可以实现无形、声谱图、声波进行可视化标注，通用性强，应用广泛。
